@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ورشة صيانة أجهزة التكييف</title>
+  <style>
+    body { font-family: 'Tajawal', sans-serif; text-align: center; background: #111; color: #fff; padding: 50px; }
+    h1 { color: #ffd700; font-size: 2.5em; }
+    .box { background: #222; padding: 20px; margin: 30px auto; border-radius: 15px; width: 80%; max-width: 600px; }
+    a { display: inline-block; background: #ffd700; color: #000; padding: 10px 20px; text-decoration: none; border-radius: 8px; margin-top: 15px; }
+  </style>
+</head>
+<body>
+  <h1>ورشة صيانة أجهزة التكييف</h1>
+  <div class="box">
+    <p>تدريب عملي 100٪ لمدة 3 أيام في صلالة ومسقط – فقط بـ 25 ريال عماني</p>
+    <p>📅 احجز الآن وابدأ مشروعك الخاص في مجال التكييف!</p>
+    <a href="https://wa.me/96897634346">احجز عبر واتساب</a>
+  </div>
+</body>
+</html>
